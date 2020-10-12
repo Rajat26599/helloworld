@@ -2,7 +2,7 @@
 
 This repo contain "Hello, World!" Program written in various modern day programming languages.
 
-## Intro
+## Introduction
 
 According to [Wikipedia](https://en.wikipedia.org/wiki/%22Hello,_World!%22_program):
 
