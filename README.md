@@ -1,6 +1,16 @@
 # Hello, World! :wave:
 
-This repo contain "Hello, World!" Program written in various modern day programming languages.
+This repo contain "Hello, World!" program written in various modern day programming languages.
+If you want to add more "Hello, World!" program in other modern day programming languages, then follow these steps:
+
+1. Fork this repo to your GitHub account.
+2. Clone the forked repo on your local computer.
+3. Move to the forked repo and create **Programming Language** name directory inside it. *//Ex: **SWIFT***
+4. Create a file with name "**helloworld**" with appropriate extension required for the programming language. *//EX: **helloworld.swift***
+5. Write a program which will print **Hello, World!** to the standard console using choosen language and run it.
+6. Stage your changes and make commits on your local computer.
+7. Push these commits to your forked repo on **GitHub**.
+8. Make a **Pull Request** to this "**helloworld**" repo.
 
 ## Introduction
 
