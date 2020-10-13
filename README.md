@@ -9,13 +9,13 @@ The output of all the programs on the standard console will be:
 
 ## Contribution
 
-If you want to add more "Hello, World!" program in other modern day programming languages, then follow these steps:
+If you want to add more "Hello, World!" program to this repo in other modern day programming languages, then follow these steps:
 
 1. Fork this repo to your GitHub account.
 2. Clone the forked repo on your local computer.
 3. Move to the forked repo and create **Programming Language** name directory inside it. *//Ex: **SWIFT***
-4. Create a file with name "**helloworld**" with appropriate extension required for the programming language. *//EX: **helloworld.swift***
-5. Write a program which will print **Hello, World!** to the standard console using choosen language and run it.
+4. Create a file with name **helloworld** with appropriate extension required for the programming language. *//EX: **helloworld.swift***
+5. Write a program which will print **Hello, World!** to the standard console using choosen language and test it by running on your local computer for the described output.
 6. Stage your changes and make commits on your local computer.
 7. Push these commits to your forked repo on **GitHub**.
 8. Make a **Pull Request** to this "**helloworld**" repo.
@@ -24,7 +24,7 @@ If you want to add more "Hello, World!" program in other modern day programming 
 
 According to [Wikipedia](https://en.wikipedia.org/wiki/%22Hello,_World!%22_program):
 
-A **Hello, World!** program generally is a computer program that outputs or displays the message **Hello, World!** Such a program is very simple in most programming languages, and is often used to illustrate the basic syntax of a programming language. It is often the first program written by people learning to code. It can also be used as a sanity test to make sure that a computer language is correctly installed, and that the operator understands how to use it. 
+A "**Hello, World!**" program generally is a computer program that outputs or displays the message **Hello, World!** Such a program is very simple in most programming languages, and is often used to illustrate the basic syntax of a programming language. It is often the first program written by people learning to code. It can also be used as a sanity test to make sure that a computer language is correctly installed, and that the operator understands how to use it. 
 
 ## History
 
